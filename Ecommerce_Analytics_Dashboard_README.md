@@ -19,9 +19,9 @@ A relational data model and interactive dashboard analyzing e-commerce orders.
 ## Dashboard
 KPI cards, best-seller chart, customer spend table, category-revenue donut chart, category slicer.
 
-![Dashboard Overview 1](Ecommerce%20Dashboard%20Screenshot%201.png)
-![Dashboard Overview 1](Ecommerce%20Dashboard%20Screenshot%202.png)
-![Dashboard Overview 1](Ecommerce%20Dashboard%20Screenshot%203.png)
+![Dashboard Overview 1](Ecommerce_Dashboard_Screenshot_1)
+![Dashboard Overview 2](Ecommerce_Dashboard_Screenshot_2)
+![Dashboard Overview 3](Ecommerce_Dashboard_Screenshot_3)
 
 ## Key Design Decision
 A junction table (Order_Items) was used instead of fixed "Product1, Product2..." columns, since an order can contain any number of products — fixed columns would either waste space or break for large orders.
